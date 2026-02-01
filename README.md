@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer | Java • Spring Boot • React | Project</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik9433" alt="kartik9433" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartik9433?tab=repositories](https://github.com/kartik9433?tab=repositories)
 
