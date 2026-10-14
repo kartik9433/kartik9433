@@ -85,6 +85,17 @@
 
 ---
 
+## 🏅 LeetCode Badges
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kartik__938"><img src="https://img.shields.io/badge/🏅_Annual_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Annual Badge"/></a>
+<a href="https://leetcode.com/u/kartik__938"><img src="https://img.shields.io/badge/Problems_Solved-450%2B-2EC4B6?style=for-the-badge&logo=leetcode&logoColor=white" alt="450+ problems solved"/></a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
