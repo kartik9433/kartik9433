@@ -12,8 +12,6 @@
   <a href="https://leetcode.com/u/kartik__938"><img src="https://img.shields.io/badge/LeetCode-450%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=kartik9433&label=Profile%20views&color=2c5364&style=flat" alt="views"/>
-
 </div>
 
 ---
